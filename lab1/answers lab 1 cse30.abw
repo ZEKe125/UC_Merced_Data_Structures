@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="28" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Wed Aug 31 12:57:27 2016
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Wed Aug 31 12:57:27 2016
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="237" last-saved="1472673447" uid="9790eb26-6fb4-11e6-96f4-a2d5704dbba1">
+<version id="1" started="1472673447" uid="24c82694-6fb5-11e6-96f4-a2d5704dbba1" auto="0" top-xid="28"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="27" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c>(Assessment) Logic Check</c></p>
+<p style="Normal" xid="1" props="text-align:left; dom-dir:ltr"><c>It is crucial that you gain a thorough understanding of creating and compiling</c></p>
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c>programs. Answer the following questions (either try to answer them now or in</c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c>your own time, but make sure you can answer them):</c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c>1. How would you change the executable name from main to cselab?</c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c>~/CSE30/Lab_1$ g++ main.cpp -o c</c><c props="font-weight:bold">salab</c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c>2. What happens when you compile using g++ &lt;source&gt; only? it compiles to the default executable.</c></p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr"><c>3. How can you remove the line using namespace std; from your program and</c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c>get it to compile.</c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr"><c>by writing std :: on every statement.</c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c>4. Add comments to your program.</c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr"><c>5. Play around with “cout” statements and make sure you understand what “endl”</c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr"><c>does.</c></p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr"><c>cout &lt;&lt; “ wheflidhaesluhfplihaewpfihuw”;</c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c></c></p>
+</section>
+</abiword>
